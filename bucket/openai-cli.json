@@ -1,20 +1,20 @@
 {
-    "version": "1.51.1",
+    "version": "1.51.3",
     "description": "Official command-line tool for the OpenAI API",
     "homepage": "https://github.com/openai/openai-cli",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/openai/openai-cli/releases/download/v1.51.1/openai_1.51.1_windows_amd64.zip",
-            "hash": "e07ac0c06d2565413c76802ca3ddbb2dc28814f1d6574041b1d4910e3114a0ae"
+            "url": "https://github.com/openai/openai-cli/releases/download/v1.51.3/openai_1.51.3_windows_amd64.zip",
+            "hash": "0297c02a231712f61afb19f82857c58b5eaa0c6757683a4055c269baf476987e"
         },
         "32bit": {
-            "url": "https://github.com/openai/openai-cli/releases/download/v1.51.1/openai_1.51.1_windows_386.zip",
-            "hash": "db73d5c7899bc19501ca8ee518d104ce7cada7c2d66052b02e1401b9863a4446"
+            "url": "https://github.com/openai/openai-cli/releases/download/v1.51.3/openai_1.51.3_windows_386.zip",
+            "hash": "91612affdb983ae2a0349d1c1826db6ada54fc156feb0c79b2c7a93ebad2d805"
         },
         "arm64": {
-            "url": "https://github.com/openai/openai-cli/releases/download/v1.51.1/openai_1.51.1_windows_arm64.zip",
-            "hash": "f7f90de92e9fa77faff12b9a194d8f99c0a7f3100303538e1a90f91252134e33"
+            "url": "https://github.com/openai/openai-cli/releases/download/v1.51.3/openai_1.51.3_windows_arm64.zip",
+            "hash": "679a33a9a48b226ea0c0505d4bb8a339a91c4241b082251c5e3d249178b25eeb"
         }
     },
     "bin": "openai.exe",
